@@ -1,12 +1,8 @@
-## Hello 👋
 
-<!--
+|Project Name| Main Researcher | Degree | Link|
+|---|---|---|---|
+|EpisodeTracker Module| Eduardo Yuji Sakabe| Master | [EpisodeTracker](https://github.com/CST-Group/EpisodeTrackerModule/tree/master)|
+|EpisodicMemory Agent| Bruno Guedes da Silva| Master | [EpisodicMemory Agent](https://github.com/H-IAAC/EpisodicMemoryAgent/tree/main)|
+|MindViewer Web| | Undergraduate| [MindViewer Web](https://github.com/H-IAAC/mindviewer-web)|
+|Bio-Inspired Episodic Memory| Karen Baliero| Undergraduate| [Bio-Inspired Episodic Memory](https://github.com/H-IAAC/episodic-memory/tree/master)|
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
